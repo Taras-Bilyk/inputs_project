@@ -15,7 +15,7 @@ The site is an inputs catalog.
 
 ## How to Run
 Just open the `index.html` file in any modern web browser.
-<div>Or visit the site here: <a href="https://taras-bilyk.github.io/Inputs_project/">https://taras-bilyk.github.io/Inputs_project//</a></div>
+<div>Or visit the site here: <a href="https://taras-bilyk.github.io/inputs_project/">https://taras-bilyk.github.io/inputs_project//</a></div>
 
 
 ## Project Structure
